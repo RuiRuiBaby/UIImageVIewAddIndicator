@@ -33,5 +33,5 @@
   
  
 ###使用该简易的封装有什么效果呢?
-![image](https://github.com/Baichenghui/UIImageViewActivityIndicator/blob/master/SDWebImage-Categary-UIActivityIndicator/aaa.png)
+![image](https://github.com/Baichenghui/UIImageVIewAddIndicator/blob/master/SDWebImage-Categary-UIActivityIndicator/effective_pic.png)
 
