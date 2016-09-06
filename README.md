@@ -1,6 +1,6 @@
 # UIImageViewActivityIndicator
 
-在SDWebImage的框架基础上,封装了下UIImageView加载图片时用UIActivityIndicatorView当做进度条
+在SDWebImage的框架基础上,封装了UIImageView加载图片时有UIActivityIndicatorView当做进度条
 
 ###使用
 
